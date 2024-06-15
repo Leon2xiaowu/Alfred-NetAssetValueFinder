@@ -6,8 +6,7 @@ An Alfred Workflow for quickly querying the latest Chinese Mutual Fund net worth
 
 ---
 
-<img width="559" alt="image" src="https://github.com/Leon2xiaowu/Alfred-NetAssetValueFinder/assets/51850815/c49ab7bf-889f-43c0-b542-a5169101b1be">
-
+<img width="559" alt="image" src="https://github.com/Leon2xiaowu/Alfred-NetAssetValueFinder/assets/51850815/a07b8207-0737-4a1a-bcc0-07f9844a788e">
 
 ## 使用方式
 
