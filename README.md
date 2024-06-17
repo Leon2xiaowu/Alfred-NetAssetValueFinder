@@ -1,12 +1,16 @@
 # Alfred-NetAssetValueFinder ｜ Alfred 场外基金净值查询Workflow
 
-An Alfred Workflow for quickly querying the latest Chinese Mutual Fund net worth
 
-一款Alfred的Workflow用于快速查询最新的场内基金净值
+
+<p align="center">An Alfred Workflow for quickly querying the latest Chinese Mutual Fund net worth</p>
+<p align="center">一款Alfred的Workflow用于快速查询最新的场内基金净值</p>
+<p align="center">
+  <img width="559" alt="image" src="https://github.com/Leon2xiaowu/Alfred-NetAssetValueFinder/assets/51850815/a07b8207-0737-4a1a-bcc0-07f9844a788e">
+</p>
+
 
 ---
 
-<img width="559" alt="image" src="https://github.com/Leon2xiaowu/Alfred-NetAssetValueFinder/assets/51850815/a07b8207-0737-4a1a-bcc0-07f9844a788e">
 
 ## 使用方式
 
